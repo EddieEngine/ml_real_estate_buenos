@@ -1,1 +1,1 @@
-# ml_real_estate_buenos
+This machine learning project involves building from data wrangling and visualization skills and moving from descriptive to predictive data science. My focus is to create a machine learning model that predicts apartment prices in Buenos Aires, Argentina.
